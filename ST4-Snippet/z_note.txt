@@ -11,3 +11,10 @@ Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
 Nếu code C++, để kích hoạt snippet, mở file có đuôi .cpp -> gõ "#sinp" là ra
 Nếu code Py, để kích hoạt snippet, mở file có đuôi .py -> gõ "sinpy"
 Để tạo một snippet mới: Tools -> Developer -> New Snippet...
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh snippet
+	https://stackoverflow.com/questions/27492308/how-do-i-edit-snippets-in-sublime-text-3
+Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
