@@ -8,8 +8,8 @@ Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích trên
 Để thay đổi BracketHighlighter setting: Preferences -> Package Settings -> BracketHighlighter -> Bracket Settings
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
-Tham khảo cách tùy chỉnh 
-    https://www.sublimetext.com/docs/settings.html
+Tham khảo cách tùy chỉnh BracketHilighter
+    https://packagecontrol.io/packages/BracketHighlighter
 Tham gia discord server: https://discord.gg/Rdv8vxQgHA
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */
