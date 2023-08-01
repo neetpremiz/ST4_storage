@@ -1,0 +1,8 @@
+web chỉnh sửa file sublime_text.exe:
+	hexed.it
+	
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
