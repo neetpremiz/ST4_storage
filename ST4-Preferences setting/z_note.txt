@@ -2,6 +2,7 @@ Setting này mình thay đổi nhiều lần và thấy phù hợp với nhiều
 Để import setting này vào ST4 bạn đang dùng có 2 cách:
     -Cách 1: copy file Preferences.sublime-setting vào địa chỉ đích " AppData\Roaming\Sublime Text\Packages\User " -> replace 
     -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt vào file Preferences.sublime-setting -> Ctrl + S
+Lưu ý: phải mở ST4 lên thì mới có địa chỉ đích ở trên
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh preferences setting
