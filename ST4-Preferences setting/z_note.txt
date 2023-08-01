@@ -1,6 +1,6 @@
 Setting này mình thay đổi nhiều lần và thấy phù hợp với nhiều người nên bạn có thể dùng thử, trong file mình có note rõ ràng r nên bạn có thể tự chỉnh tùy ý
 Để import setting này vào ST4 bạn đang dùng có 2 cách:
-    -Cách 1: copy file Preferences.sublime-setting vào địa chỉ đích dẫn " AppData\Roaming\Sublime Text\Packages\User " -> replace 
+    -Cách 1: copy file Preferences.sublime-setting vào địa chỉ đích " AppData\Roaming\Sublime Text\Packages\User " -> replace 
     -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt vào file Preferences.sublime-setting -> Ctrl + S
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
