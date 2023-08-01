@@ -3,5 +3,5 @@ Nếu có thắc mắc, cần giúp đỡ, có ý tưởng để cải thiện h
     Đạt Trương: https://www.facebook.com/profile.php?id=100079111352458
     neet: https://www.facebook.com/neetpremiz/
 ST4 tutorial: https://www.youtube.com/@neetpremiz
-Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage

@@ -1,0 +1,470 @@
+{
+    //color scheme by @neetpremiz
+    "name": "Visual Studio Code Plus Scheme",
+    "globals":
+    {
+        "brackets_options": "#ffffff",
+        "stippled_underline": "#000000",
+        "background": "rgb(1, 32, 2)",
+        "foreground": "#00FC6C",  //(cus_neon_green)
+        "block_caret_border": "#ffffff",
+        "block_caret_corner_style": "#000000",
+        "gutter":"#011F02",
+        "gutter_foreground": "#ffffff",
+        "gutter_foreground_highlight":"#00FC6C",
+        "line_diff_added": "#00FC6C",  
+        "line_diff_modified": "#00FFFF", 
+        "line_diff_deleted": "#ffffff",
+        "line_diff_width": "#88ff00",
+        "selection": "#00A8A8", 
+        "selection_foreground": "#000000",
+        "selection_border": "#88ff00",
+        /*"selection_corner_radius": "#88ff00",
+        "selection_corner_style": "#88ff00",
+        "inactive_selection_foreground": "#88ff00",
+        "inactive_selection_border": "#88ff00",
+        "inactive_selection": "#88ff00",
+        "selection_border_width": "#88ff00",
+        */
+        "highlight": "#ffffff",
+        "find_highlight": "#008080",
+        "find_highlight_foreground": "#ffffff",
+        "caret": "white",
+    },
+    "rules":
+    [
+
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "#008020",
+            "font_style": "no_bold" //cmt1
+        },
+        { 
+            "name": "/* cmt block ",
+            "scope": "comment.block",
+            "foreground": "#008020",
+            "font_style": "no_bold" //cmt2
+        },
+        { 
+            "name": "/*  //",
+            "scope": "punctuation.definition.comment",
+            "foreground": "#008020",
+            "font_style": "no_bold" //cmt3
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "hsla(0, 100%, 50%, 1)",
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "foreground": "#00FFFF", 
+        },
+        {
+            "name": "Keyword like define",
+            "scope": "keyword.control.import",
+            "foreground": "#00FFFF",
+        },
+        {
+            "name": "Keyword like if else while",
+            "scope": "keyword.control",
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "[]",
+            "scope": "punctuation",
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "{} test",
+            "scope": "punctuation.section.block.end",
+            "foreground": "#9D00FF", //n9d neon magenta #FA04D3
+        },
+        {
+            "name": "{} test",
+            "scope": "punctuation.section.block.begin",
+            "foreground": "#9D00FF",  //n9d
+        },
+        {
+            "name": "<",
+            "scope": "punctuation.definition.generic.begin",
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": ">",
+            "scope": "punctuation.definition.generic.end",
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "keyword sai",
+            "scope": "invalid.illegal",
+            "foreground": "#FF0000",
+        },
+        {
+            "name": "storage",
+            "scope": "storage.modifier",
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "constant.language ex: NUll, False",
+            "scope": "constant.language",
+            "foreground": "#00FFFF",
+        },
+        /*,
+        {
+            "name": "sau define",
+            "scope": "meta.preprocessor",
+            "foreground": "#9D00FF",
+        },
+        {
+            "name": "sau define",
+            "scope": "string.regexp",
+            "foreground": "#9D00FF",
+        },
+        */
+        { 
+            "name": "biến",
+            "scope": "variable",
+            "foreground": "#00FC6C", //cus_neon_green
+        },
+        { 
+            "name": "tên biến",
+            "scope": "variable.parameter",
+            "foreground": "#00FC6C",
+        },
+        /*
+        { 
+            "name": "củ đậu bên trong dấu kép",//ví dụ: printf("%08d",A.a[i]);
+            "scope": "constant",
+            "foreground": "#00FF00",
+        },\
+        */
+        { 
+            "name": "Ex: \n;",
+            "scope": "constant.character.escape",
+            "foreground": "#1F51FF",//"#4D4DFF", //#00FC6C#FF2965
+            //neon blue 
+        },
+        { 
+            "name": "Ex: printf(%d trong kép,A.a[n]) ",
+            "scope": "constant.other.placeholder",
+            "foreground": "#00FFFF",
+        },
+        { 
+            "name": "ll sau using",
+            "scope": "entity.name",
+            "foreground": "#00FC6C",
+        },
+        { 
+            "name": "Ex: struct <so>) ",
+            "scope": "entity.name.struct",
+            "foreground": "#00FC6C",
+        },
+        { 
+            "name": "Sau define",
+            "scope": "entity.name.constant",
+            "foreground": "#00FFFF", 
+        },        
+            /*một số cái tương tự 
+            entity.name.enum
+
+            entity.name.union
+
+            entity.name.trait
+
+            entity.name.interface
+
+            entity.name.impl
+
+            entity.name.type
+           */
+        { 
+            "name": "Ex: main sum print ",
+            "scope": "entity.name.function",
+            "foreground": "#00FFFF", 
+        },
+        { 
+            "name": "ex: #define <ll>",
+            "scope": "entity.name.constant.preprocessor", 
+            "foreground": "#00FC6C", 
+        },
+        { 
+            "name": "Dấu toán",
+            "scope": " keyword.operator",
+            "foreground": "#FFFFFF", 
+        },
+        { 
+            "name": "Dấu = gán giá trị",
+            "scope": "keyword.operator.assignment",
+            "foreground": "#FFFFFF", 
+        },
+        { 
+            "name": "i < ++ >",
+            "scope": "keyword.operator.arithmetic",
+            "foreground": "#FFFFFF", 
+            //tương tự chưa xác định: keyword.operator.logical
+        },
+        { 
+            "name": "Ex: int scs,a[10];" ,
+            "scope": "struct <so>",
+            "foreground": "#00FC6C", 
+            /* tương tự nhưng chưa sử dụng tới:
+            meta.class
+            meta.enum
+            meta.union
+            meta.trait
+            meta.interface
+            meta.impl
+            meta.type
+            meta.function*/
+        },
+        { 
+            "name": "Ex: void print(<so> A)" ,
+            "scope": "meta.function",
+            "foreground": "#00FC6C", 
+        },
+        { 
+            "name": "Ex: void print(<so> A)" ,
+            "scope": "meta.function.parameters",
+            "foreground": "#00FC6C",
+        },
+        { 
+            "name": "Biến đặt trong ngoặc" , //ios base
+            "scope": "meta.function-call",
+            "foreground": "#00FC6C",
+        },
+        { 
+            "name": "Dấu phẩy ," ,
+            "scope": "punctuation.separator",
+            "foreground": "#FFFFFF", 
+        },
+        { 
+            "name": "Dấu chấm phẩy ," ,
+            "scope": "punctuation.terminator",
+            "foreground": "#FF2965", 
+        },
+        {
+            "name": "::",
+            "scope": "punctuation.accessor",
+            "foreground": "#FFFFFF",
+        },
+        { 
+            "name": "Ex: const int <MOD> ," ,
+            "scope": "source",
+            "foreground": "#00FC6C",
+        },
+        {
+            "name": "Keyword like int bool char",
+            "scope": "storage.type",
+            "foreground": "#FFFFFF",
+        },
+        /*
+        storage.type.class keyword.declaration.class
+        storage.type.struct keyword.declaration.struct
+        storage.type.enum keyword.declaration.enum
+        storage.type.union keyword.declaration.union
+        storage.type.trait keyword.declaration.
+        storage.type.interface keyword.declaration.interface
+        storage.type.impl keyword.declaration.impl
+        storage.type keyword.declaration.type
+        */
+        {
+            "name": "ex: void int",
+            "scope": "storage.type.struct keyword.declaration.struct",
+            "foreground": "#FFFFFF",
+        },
+       {
+            "name": "chữ trong ngoặc kép",
+            "scope": "string.quoted.double", //chữ trong ""
+            "foreground": "#9D00FF", //n9d
+            /*ngoặc tương tự:
+            string.quoted.single
+            */
+        },
+        {
+            "name": "chữ trong ngoặc kép",
+            "scope": "string.quoted.single", //chữ trong ''
+            "foreground": "#9D00FF", //n9d
+        }, 
+        {
+            "name": "chữ trong <>",
+            "scope": "string.quoted.other.lt-gt.include.c++", //chữ trong ""
+            "foreground": "#FF2965", 
+        },
+        {
+            "name": "Dấu ngoặc kép đầu",
+            "scope": "punctuation.definition.string.begin", 
+            "foreground": "#FFFF00", 
+        },
+        {
+            "name": "Dấu ngoặc kép kết",
+            "scope": "punctuation.definition.string.end",
+            "foreground": "#FFFF00", 
+        },
+        {
+            "name": "Dấu ngoặc vuônng",
+            "scope": "meta.string.xml string.unquoted.cdata.xml",
+            "foreground": "#9D00FF", //n9d
+        },
+        { 
+            "name": "ex printf",
+            "scope": "support.function",
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "Ex: int n = A.<scs>;",
+            "scope": "variable.other", 
+            "foreground": "#00FC6C", 
+        },
+        { 
+            "name": "sync_with_stdio",
+            "scope": "variable.function",
+            "foreground": "#00FFFF", //auto it=mp.<find>(a[i]);
+        },
+        {
+            "name": "Ex: const inline;",
+            "scope": " storage.modifier", 
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "numberic suffix;",
+            "scope": "constant.numeric.suffix", 
+            "foreground": "#00FFFF",  
+        },
+        {
+            "name": "variable.language",
+            "scope": "variable.language", 
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "support.type.sys-types",
+            "scope": "support.type.sys-types", 
+            "foreground": "#FFFFFF",
+        },
+        {
+            "name": "entity.name.type.using",
+            "scope": "entity.name.type.using", 
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "meta.preprocessor.macro",
+            "scope": "meta.preprocessor.macro", 
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "meta.preprocessor.c++",
+            "scope": "meta.preprocessor", 
+            "foreground": "#00FFFF", 
+        },
+        {
+            "name": "variable.function.member.c++",
+            "scope": "variable.function.member", 
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "punctuation.accessor.double-colon.c++",
+            "scope": "punctuation.accessor.double-colon", 
+            "foreground": "#FFFFFF",  
+        },
+        {
+            "name": "support.type.stdint.c ex:int16_t",
+            "scope": "support.type.stdint.c", 
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "support.type.python",
+            "scope": "support.type.python", 
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "support.type.windows",
+            "scope": "support.type.windows", 
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "support.type.windows",
+            "scope": "support.type.windows", 
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "entity.name.label",
+            "scope": "entity.name.label", 
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "entity.name.label",
+            "scope": "meta.function.parameters", 
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "entity.name.label",
+            "scope": "meta.group",  
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "meta.toc-list.full-identifier",
+            "scope": "meta.toc-list.full-identifier.c++",  
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "meta.statement.loop.while.python",
+            "scope": "meta.statement.loop.while.python",
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "punctuation.accessor.dot",
+            "scope": "punctuation.accessor.dot",
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "keyword.operator.logical.python",
+            "scope": "keyword.operator.logical.python",
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "entity.name.type.typedef",
+            "scope": "entity.name.type.typedef",
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "entity.name.namespace",
+            "scope": "entity.name.namespace.c++",
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "entity.other.inherited-class",
+            "scope": "entity.other.inherited-class.c++",
+            "foreground": "#00FC6C", 
+        },
+        {
+            "name": "entity.name.tag.localname.xml",
+            "scope": "entity.name.tag.localname.xml",
+            "foreground": "#00FFFF", 
+        },
+         {
+            "name": "punctuation.definition.tag.begin",
+            "scope": "punctuation.definition.tag.begin.xml",
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "punctuation.definition.tag.end",
+            "scope": "punctuation.definition.tag.end.xml",
+            "foreground": "#FFFFFF", 
+        },
+        {
+            "name": "entity.name.class",
+            "scope": "entity.name.class.c++",
+            "foreground": "#00FC6C", 
+        }
+        //nhớ đặt tên cho từng cái  
+    ]
+}
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh BracketHilighter
+    https://packagecontrol.io/packages/BracketHighlighter
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

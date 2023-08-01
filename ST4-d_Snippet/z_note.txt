@@ -19,6 +19,6 @@ Nếu code Py, để kích hoạt snippet, mở file Py(đuôi .py):
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh snippet
 	https://stackoverflow.com/questions/27492308/how-do-i-edit-snippets-in-sublime-text-3
-Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */

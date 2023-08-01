@@ -11,7 +11,7 @@ Lưu ý:
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh BracketHilighter
     https://packagecontrol.io/packages/BracketHighlighter
-Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */
 

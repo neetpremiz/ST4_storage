@@ -15,6 +15,6 @@ TRONG TRƯỜNG HỢP bạn muốn dùng ST4 build 4143 x64 cho Windows 64bit m�
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
-Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */
