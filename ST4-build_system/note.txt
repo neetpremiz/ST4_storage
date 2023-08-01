@@ -1,0 +1,1 @@
+để build system có thể sử dụng bạn cần phải đặt đúng địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
