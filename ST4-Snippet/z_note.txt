@@ -1,1 +1,11 @@
-
+Snippet có 2 cái, 1 là để code C++, 1 là để code Py.
+Để import snippet này vài ST4 của bạn:
+    Copy file snippet_basic_cpp.sublime-snippet đến địa chỉ đích : " AppData\Roaming\Sublime Text\Packages\User "
+    Copy file snippet_basic_py.sublime-snippet đến địa chỉ đích : " AppData\Roaming\Sublime Text\Packages\User "
+Lưu ý: Phải mở ST4 lên thì mới có địa chỉ đích ở trên
+       File snippet phải ở đúng vị trí trên thì mới có thể sử dụng
+       không nhất thiết là "#sinp" hay "#sinpy", bạn có thể đổi thành từ khóa khác
+       Nội dung trong file snippet Py mình để trống
+       Bạn có thể tự thay đổi nội dung snippet C++ 
+Nếu code C++, để kích hoạt snippet, mở file có đuôi .cpp -> gõ "#sinp" là ra
+Nếu code Py, để kích hoạt snippet, mở file có đuôi .py -> gõ "#sinpy"
