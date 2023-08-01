@@ -10,3 +10,4 @@ Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
        -Bạn có thể tự thay đổi nội dung snippet 
 Nếu code C++, để kích hoạt snippet, mở file có đuôi .cpp -> gõ "#sinp" là ra
 Nếu code Py, để kích hoạt snippet, mở file có đuôi .py -> gõ "sinpy"
+Để tạo một snippet mới: Tools -> Developer -> New Snippet...
