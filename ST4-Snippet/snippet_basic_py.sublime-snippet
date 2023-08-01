@@ -1,0 +1,23 @@
+//Snippet là tool giúp bạn tiết kiệm thời gian code những nội dung lặp đi lặp lại
+//Tất cả nội dung trong content đều là nội dung sẽ hiện ra khi bạn gõ sinpy(truy xuất snippet)
+<snippet>
+	<content><![CDATA[
+"""
+import sys
+#sys.stdin = open("input.inp","r")
+#sys.stdout = open("output.out","w")
+"""
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sinpy</tabTrigger> //Nếu không thích "sinpy" có thể thay bằng cái khác phù hợp với bạn 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>  //đây là đuôi file để PM có thể định dạng cú pháp NNLT bạn sử dụng
+</snippet>
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh snippet
+	https://stackoverflow.com/questions/27492308/how-do-i-edit-snippets-in-sublime-text-3
+Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
