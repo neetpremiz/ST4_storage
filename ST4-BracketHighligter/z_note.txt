@@ -1,2 +1,17 @@
-BracketHighligter là gói cài đặt có sẵn trên kho https://packagecontrol.io. Gói này sẽ làm nổi bật theo nhiều kiểu các dấu ngoặc thường dùng như ngoặc nhọn, vông, tròn, ngoặc trích dẫn,... Giúp bạn phát hiện thiếu end bracket dễ hơn, khi đọc code sẽ rõ ràng và đỡ hại mắt
+BracketHighligter là gói cài đặt có sẵn trên kho https://packagecontrol.io. Gói này sẽ làm nổi bật theo nhiều kiểu các dấu ngoặc thường dùng như ngoặc nhọn, vông, tròn, ngoặc trích dẫn,... giúp bạn phát hiện thiếu end bracket dễ hơn, khi đọc code sẽ rõ ràng và đỡ hại mắt. Setting mặc định của gói này không được múp cho lắm(có thể đối với bạn là đủ dùng) nên mình đã thay đổi setting để nó phát huy hiệu quả tối đa
+Để thay đổi setting của gói này vào ST4 có 2 cách:
+    Cách 1: copy file BracketHighlighter.sublime-settings vào địa chỉ đích  " AppData\Roaming\Sublime Text\Packages\User "
+    Cách 2: copy toàn bộ nội dung trong file BracketHighlighter.txt -> Preferences -> Package Settings -> BracketHighlighter -> Bracket Settings -> ở cửa sổ bên phải, clear sạch và patse vào -> Ctrl+S -> tên file bạn thích đặt như nào cũng được nhưng phải có đuôi ".sublime-settings" ví dụ: "bh.sublime-settings"
+Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích trên
+       -File BH setting chỉ được kích hoạt khi ở đúng địa chỉ đích trên 
+       -Khi thay đổi các setting này nếu bị lỗi: Ctrl+Z là được
+Để thay đổi BracketHighlighter setting: Preferences -> Package Settings -> BracketHighlighter -> Bracket Settings
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh 
+    https://www.sublimetext.com/docs/settings.html
+Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
+
 
