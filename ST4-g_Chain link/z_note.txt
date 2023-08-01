@@ -1,0 +1,7 @@
+Tổng hợp các link cần thiết trong quá trình bạn dùng ST4 để code C++ và Python
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
