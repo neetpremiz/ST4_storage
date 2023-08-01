@@ -1,0 +1,16 @@
+//Để vô hiệu hóa một dòng lệnh thêm " // " ở đầu dòng
+//Mô tả: build biên dịch python, nhập đầu vào và xuất đầu ra cửa sổ command prompt(cmd)
+{
+    "cmd": ["start", "cmd", "/C", "py -u $file_name", "& echo. & pause"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "shell": true,
+}
+//source refer: https://stackoverflow.com/questions/69030603/how-to-run-python-scripts-in-cmd-using-sublime-build-system-sublime-text
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh build system
+    https://www.sublimetext.com/docs/build_systems.html
+Tham gia discord sever: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
