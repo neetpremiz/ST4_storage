@@ -1,8 +1,8 @@
 Setting này để tối ưu hiệu suất và trải nghiệm người dùng. Mình thay đổi nhiều lần và thấy phù hợp với nhiều người nên bạn có thể dùng thử, trong file mình có note rõ ràng r nên bạn có thể tự chỉnh tùy ý
-Để import setting này vào ST4 bạn đang dùng có 2 cách:
+Để import setting này vào ST4 có 2 cách:
     -Cách 1: copy file Preferences.sublime-setting vào địa chỉ đích " AppData\Roaming\Sublime Text\Packages\User " -> replace 
     -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt -> Preferences -> Setting -> copy vào file Preferences.sublime-setting ở cửa sổ bên phải
-Lưu ý: -phải mở ST4 lên thì mới có địa chỉ đích ở trên
+Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
        -Khi thay đổi các setting này nếu bị lỗi: Ctrl+Z là được
 Để thay đổi setting: Preferences -> Setting
 /*
