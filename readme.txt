@@ -2,8 +2,6 @@
 Nếu có thắc mắc, cần giúp đỡ hay ý tưởng để cải thiện hiệu suất ST4: 
     Đạt Trương: https://www.facebook.com/profile.php?id=100079111352458
     neet: https://www.facebook.com/neetpremiz/
-/*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham gia discord server: https://discord.gg/Rdv8vxQgHA
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
-*/
