@@ -1,2 +1,13 @@
-Link sublime text 4 build 4143:
-	d
+Link download sublime text chính chủ: https://www.sublimetext.com/download
+Link sublime text 4 build 4143 x64:
+ 	Google drive: 
+ 		https://drive.google.com/file/d/1hc3-lCEIWSoPNU5zerD588GOzr4Yuels/view?usp=sharing
+ 	Storj: 
+		https://link.storjshare.io/jxkyklmgq7otrwu6jveumxk6a24a/sublimetextbuild4143%2Fsublime_text_build_4143_x64_setup.exe
+Link sublime text 4 build 4143 x64 portable:
+	Google drive: 
+		https://drive.google.com/file/d/1wWWX63DcF3TVlM92GkmwvH4YAOhX5uSi/view?usp=sharing
+	Storj: 
+		https://link.storjshare.io/jwfm7lwtzdaqcrpu5fw3z5kpsgaq/sublimetextbuild4143%2Fsublime_text_build_4143_x64.zip
+Nếu không cần tải build 4143 hoặc bạn dùng macOS/Linux bạn k cần tải link sao lưu mà cứ thế tải về từ web chính chủ
+TRONG TRƯỜNG HỢP bạn muốn dùng ST4 build 4143 x64 cho windows mà web chính chủ k có thì tải qua link sao lưu. Các file exe mình sao lưu không hề có chỉnh sửa gì, đều là tải xuống từ web chính chủ. Nếu sợ thì khi chạy file exe bật tất cả defender, phần mềm anti virus lên hoặc up file lên virustotal.com để kiểm tra
