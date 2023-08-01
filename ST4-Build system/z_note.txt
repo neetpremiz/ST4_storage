@@ -1,10 +1,15 @@
 Các build system này để biên dịch C++, trong tất cả các build đều sử dụng phiên bản C++20. Mình đã test nhiều máy khác nhau và đều chạy tốt
-Để import các build này vào ST4 bạn đang dùng: copy tất cả các file có đuôi ".sublime-build" đến địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User ". 
+Để import các build này vào ST4: 
+    Copy tất cả các file có đuôi ".sublime-build" đến địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
 Lưu ý:
     -Nhớ phải mở subl lên thì mới có địa chỉ đích ở trên
     -Build system chỉ có thể sử dụng nếu bạn đặt đúng ở vị trí đích trên
-Để thay đổi Build system: Tools -> Build system
-Để tạo một Build system mới: Tools -> Build System -> New Build System. 
+Để thay đổi Build system: 
+    Tools -> Build system
+Để tạo một Build system mới: 
+    Tools -> Build System -> New Build System
+Để xem/thay đổi nội dung Build system:
+    Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở các file có đuôi ".sublime-build" bằng ST4
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh build system
