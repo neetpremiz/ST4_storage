@@ -1,0 +1,84 @@
+//BracketHighlighter là gói giúp hightlight làm nổi bật các dấu ngoặc, khi đọc code dễ nhìn hơn
+{
+    //tắt: true -> false || bật: false -> true
+    //setting này phù hợp nếu bạn code C++
+    "content_highlight_bar": true, //thanh sáng nối từ begin bracket đến end bracket
+    "align_content_highlight_bar": true, //tương tự nhưng begin end bracket ở trong
+    // // // // // // // // // // // // // // // // // // // // //
+    "bracket_styles": {
+    // các kiểu đánh dấu(bracket style): solid, underline, outline, none, thin_underline, squiggly, stippled
+    // các kiểu dấu ngoặc: angle, round, curly, square, tag, star, dot, bookmark, question, quote, double_quote, single_quote, single_quote_offset, double_quote_offset, none
+    //Các loại dấu chưa tùy chỉnh cài đặt riêng sẽ để mặc định trong default
+        "default": {
+            "icon": "dot",
+            "color": "brackethighlighter.default",
+            "style": "outline",
+        }, 
+    //kiểu dấu ngoặc không xác định begin end brackets
+        "unmatched": {
+            "icon": "question",
+            "color": "brackethighlighter.unmatched",
+            "style": "outline",
+        }, 
+    // Kiểu dấu ngoặc đã xác định begin end brackets
+        "curly": {
+            "icon": "curly_bracket",
+            "color": "brackethighlighter.curly",
+            "style": "outline",   
+            "enabled": "true",
+        }, //ngoặc nhọn { }
+        "square": {
+            "icon": "square_bracket",
+            "color": "brackethighlighter.square",
+            "style": "none",
+            "style": "underline",  
+            "enabled": "true",
+        }, //ngoặc vuông [ ]
+        "round": {
+            "icon": "round_bracket",
+            "color": "brackethighlighter.round",
+            "style": "none",
+            "style": "underline",   
+            "enabled": "true",
+        }, //ngoặc tròn ( )
+        "angle": {
+            "icon": "angle_bracket",
+            "color": "brackethighlighter.angle",
+            "style": "none",
+        },
+        "tag": {
+            "icon": "tag",
+            "color": "brackethighlighter.tag",
+            "style": "none",
+        },
+        "c_define": {
+            "icon": "hash",
+            "color": "brackethighlighter.c_define",
+            "style": "none",
+        },
+        "single_quote": {
+            "icon": "single_quote",
+            "color": "brackethighlighter.quote",
+            "style": "underline",
+            "enabled": "true",
+        }, //ngoặc trích dẫn đơn ' '
+        "double_quote": {
+            "icon": "double_quote",
+            "color": "brackethighlighter.quote",
+            "style": "underline",
+            "enabled": "true",
+        }, //ngoặc trích dẫn kép " "
+        "regex": {
+            "icon": "regex",
+            "color": "brackethighlighter.quote",
+            "style": "none",
+        },
+    },
+}
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh BracketHilighter
+    https://packagecontrol.io/packages/BracketHighlighter
+Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
