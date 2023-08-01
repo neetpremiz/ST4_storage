@@ -3,6 +3,7 @@ Setting này để tối ưu hiệu suất và trải nghiệm người dùng. M
     -Cách 1: copy file Preferences.sublime-setting vào địa chỉ đích " AppData\Roaming\Sublime Text\Packages\User " -> replace 
     -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt -> Preferences -> Setting -> copy vào file Preferences.sublime-setting ở cửa sổ bên phải
 Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
+       -File setting phải ở đúng vị trí đích trên mới được kích hoạt
        -Khi thay đổi các setting này nếu bị lỗi: Ctrl+Z là được
 Để thay đổi preferences setting: Preferences -> Setting
 /*
