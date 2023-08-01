@@ -4,6 +4,8 @@ Setting này mình thay đổi nhiều lần và thấy phù hợp với nhiều
     -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt vào file Preferences.sublime-setting -> Ctrl + S
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh preferences setting
+    https://www.sublimetext.com/docs/settings.html
 Tham gia discord server: https://discord.gg/Rdv8vxQgHA
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */
