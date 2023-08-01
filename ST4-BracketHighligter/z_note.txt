@@ -1,1 +1,2 @@
+BracketHighligter là gói cài đặt có sẵn trên kho https://packagecontrol.io. Gói này sẽ làm nổi bật theo nhiều kiểu các dấu ngoặc thường dùng như ngoặc nhọn, vông, tròn, ngoặc trích dẫn,... Giúp bạn phát hiện thiếu end bracket dễ hơn, khi đọc code sẽ rõ ràng và đỡ hại mắt
 
