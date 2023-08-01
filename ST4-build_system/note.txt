@@ -1,0 +1,8 @@
+để build system có thể sử dụng bạn cần phải đặt đúng địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham khảo cách tùy chỉnh build system
+    https://www.sublimetext.com/docs/build_systems.html
+Tham gia discord server: https://discord.gg/Rdv8vxQgHA
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
