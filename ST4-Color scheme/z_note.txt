@@ -1,12 +1,18 @@
-Folder color scheme này không giống như những thư mục khác, cái này thì chỉ những bạn nào thích color scheme độc lạ, thích tự custom thì mới nên xem qua. Note trong file color scheme cũng không chi tiết, mình dùng như nào thì để y nguyên vậy, không chỉnh sửa gì cả
+Folder color scheme này không giống như những thư mục khác, cái này thì chỉ những bạn nào thích color scheme độc lạ, tự custom thì mới nên xem qua. Note trong file color scheme cũng không chi tiết, mình dùng như nào thì để y nguyên vậy, không chỉnh sửa gì cả
 Để import/thay đổi color scheme này vào ST4 có 2 cách:
-    -Cách 1: copy file  vào địa chỉ đích " AppData\Roaming\Sublime Text\Packages\User " -> replace 
-    -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt -> Preferences -> Setting -> copy vào file Preferences.sublime-setting ở cửa sổ bên phải -> Ctrl+S
+    Trước hết bạn phải tải gói color scheme có tên " Visual Studio Dark "
+    -Cách 1: copy file "Dark+.sublime-color scheme" vào địa chỉ đích " AppData\Roaming\Sublime Text\Packages\User " -> replace(nếu hệ thống hỏi)
+    -Cách 2: copy nội dung trong file "Dark+.sublime-color scheme.txt" -> Preferences -> Customize Color Scheme -> patse vào file "Dark+.sublime-color scheme" ở cửa sổ bên phải  -> Ctrl+S
 Lưu ý: 
     -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
-    -File setting phải ở đúng vị trí đích trên mới được kích hoạt
-Để thay đổi preferences setting: 
-    Preferences -> Setting
+    -File CS phải ở đúng vị trí đích trên mới được kích hoạt
+    -Để hiểu file CS này bạn tự thay đổi màu bằng code hex
+Để view scope:
+    Ctrl+Alt+Shift+P
+Để thay đổi color scheme: 
+    Preferences -> Select Color Scheme...
+Để customize color scheme:
+    Preferences -> Customize Color Scheme
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh preferences setting
