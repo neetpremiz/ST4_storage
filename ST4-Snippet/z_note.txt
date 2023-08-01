@@ -1,16 +1,20 @@
-Snippet là tool giúp bạn tiết kiệm thời gian code những nội dung lặp đi lặp lại. Ở đây có sẵn 2 cái, 1 là để code C++, 1 là để code Py.
-Để import snippet này vào ST4 bạn đang dùng:
-    Copy file snippet_basic_cpp.sublime-snippet đến địa chỉ đích : " AppData\Roaming\Sublime Text\Packages\User "
-    Copy file snippet_basic_py.sublime-snippet đến địa chỉ đích : " AppData\Roaming\Sublime Text\Packages\User "
-Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
-       -File snippet phải ở đúng vị trí đích trên thì mới có thể sử dụng
-       -Khi chỉnh sửa file snippet nếu bị lỗi: Ctrl+Z là được 
-       -không nhất thiết là "#sinp" hay "sinpy", bạn có thể đổi thành từ khóa khác
-       -Nội dung trong file snippet Py mình chỉ có phần cmt nhập xuất bằng file
-       -Bạn có thể tự thay đổi nội dung snippet 
-Nếu code C++, để kích hoạt snippet, mở file có đuôi .cpp -> gõ "#sinp" là ra
-Nếu code Py, để kích hoạt snippet, mở file có đuôi .py -> gõ "sinpy"
-Để tạo một snippet mới: Tools -> Developer -> New Snippet...
+Snippet là tool giúp bạn tiết kiệm thời gian code những nội dung lặp đi lặp lại. Ở đây có sẵn 2 cái, 1 là để code C++, 1 là để code Py
+Để import snippet này vào ST4:
+    Copy file snippet_basic_cpp.sublime-snippet đến địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
+    Copy file snippet_basic_py.sublime-snippet đến địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
+Lưu ý:
+    -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
+    -File snippet phải ở đúng vị trí đích trên thì mới có thể sử dụng 
+    -Nội dung trong file snippet Py mình chỉ có phần cmt nhập xuất bằng file
+    -Bạn có thể tự thay đổi nội dung snippet 
+Nếu code C++, để kích hoạt snippet, mở file C++(đuôi .cpp):
+    gõ "#sinp" 
+Nếu code Py, để kích hoạt snippet, mở file Py(đuôi .py):
+    gõ "sinpy"
+Để tạo một snippet mới: 
+    Tools -> Developer -> New Snippet...
+Để xem/thay đổi nội dung Snippet:
+    Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở các file có đuôi ".sublime-snippet" bằng ST4
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh snippet
