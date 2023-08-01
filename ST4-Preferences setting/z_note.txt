@@ -4,7 +4,7 @@ Setting này để tối ưu hiệu suất và trải nghiệm người dùng. M
     -Cách 2: copy nội dung trong file Preferences-sublime-setting.txt -> Preferences -> Setting -> copy vào file Preferences.sublime-setting ở cửa sổ bên phải
 Lưu ý: -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
        -Khi thay đổi các setting này nếu bị lỗi: Ctrl+Z là được
-Để thay đổi setting: Preferences -> Setting
+Để thay đổi preferences setting: Preferences -> Setting
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh preferences setting
