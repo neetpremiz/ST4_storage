@@ -1,4 +1,4 @@
-Snippet là tool giúp bạn tiết kiệm thời gian code những nội dung lặp đi lặp lại. Ở đây có sẵn 2 cái, 1 là để code C++, 1 là để code Py
+ Snippet là tool giúp bạn tiết kiệm thời gian code những nội dung lặp đi lặp lại. Ở đây có sẵn 2 cái cho bạn tham khảo, 1 là để code C++, 1 là để code Py
 Để import snippet này vào ST4:
     Copy file "snippet_basic_cpp.sublime-snippet" patse địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
     Copy file "snippet_basic_py.sublime-snippet" patse vào địa chỉ đích: " AppData\Roaming\Sublime Text\Packages\User "
@@ -6,11 +6,9 @@ Lưu ý:
     -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
     -File snippet phải ở đúng vị trí đích trên thì mới có thể sử dụng 
     -Bạn có thể tự thay đổi nội dung snippet 
-Nếu code C++, để kích hoạt snippet, mở file C++(đuôi .cpp):
-    gõ "#sinp" 
-    Bạn sẽ không thể kích hoạt snippet nếu dùng bộ gõ tiếng việt có sẵn của Windows(VIE - Vietnamese keyboard)
-Nếu code Py, để kích hoạt snippet, mở file Py(đuôi .py):
-    gõ "sinpy"
+    -Bạn sẽ không thể kích hoạt snippet nếu dùng bộ gõ tiếng việt có sẵn của Windows(VIE - Vietnamese keyboard)
+Để kích hoạt snippet:
+    gõ từ ở trong phần tabTrigger
 Để tạo một snippet mới: 
     Tools -> Developer -> New Snippet...
 Để xem/thay đổi nội dung Snippet:
