@@ -1,0 +1,7 @@
+"sublime_text_build_4143_x64_setup.exe"  -> [Next] -> Tick "Add to explorer context menu" -> [Install] -> [Finish]
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

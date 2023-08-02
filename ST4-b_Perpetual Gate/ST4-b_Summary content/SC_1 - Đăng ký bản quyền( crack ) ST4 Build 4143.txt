@@ -1,10 +1,10 @@
-Gọi là đăng ký bản quyền cho hình thức thôi chứ đúng ra là crack :)). Crack để PM k hiện thông purchase và ẩn (UNREGISTERED) trông ngứa mắt vl
+Gọi là đăng ký bản quyền cho hình thức thôi chứ đúng ra là crack :)). Crack để PM k hiện thông báo purchase và ẩn (UNREGISTERED) trông ngứa mắt vl
 Sao lưu file "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" ra một vị trí khác
-hexed.it -> [open file] -> "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" -> [open]
+hexed.it -> [open file] -> "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" -> [Open]
 Search -> Search for "80 78 05 00 0f 94 c1" 
 Tick Enable replace ở Search Type
 Replace by -> copy "c6 40 05 01 48 85 c9" -> patse vào -> [Find next] -> [ok]
-Save as "sublime_text.exe" -> move file vào "C:\Program Files\Sublime Text" -> Replace -> Chạy file(run, không phải là Run as administrator) -> Bỏ tick "Always ask before opening this file" -> Run
+Save as "sublime_text.exe" -> move file vào "C:\Program Files\Sublime Text" -> Replace -> sublime_text.exe -> Chạy file([Open], không phải Run as administrator) -> Bỏ tick "Always ask before opening this file" -> [Run]
 Nếu file exe chỉnh sửa có vấn đề hoặc làm sai, dùng lại file exe cũ đã sao lưu
 
 /*

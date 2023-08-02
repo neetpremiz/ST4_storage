@@ -1,11 +1,9 @@
 Mục này có 2 thư mục chính:
 1. Thư mục chứa các link cần thiết
-2. Thư mục tóm tắt nội dung chính về nhiều cái khi sử dụng ST4
+2. Thư mục tóm tắt nội dung chính về nhiều cái khác nhau
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
-Tham khảo cách tùy chỉnh BracketHilighter
-    https://packagecontrol.io/packages/BracketHighlighter
 Tham gia discord server: https://discord.gg/g6EjTCpxPa
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */
