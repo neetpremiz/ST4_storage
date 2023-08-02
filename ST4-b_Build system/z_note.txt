@@ -10,6 +10,7 @@ Lưu ý:
     Tools -> Build System -> New Build System
 Để xem/thay đổi nội dung Build system:
     Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở các file có đuôi ".sublime-build" bằng ST4
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh build system

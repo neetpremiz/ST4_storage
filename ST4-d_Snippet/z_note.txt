@@ -15,6 +15,7 @@ Nếu code Py, để kích hoạt snippet, mở file Py(đuôi .py):
     Tools -> Developer -> New Snippet...
 Để xem/thay đổi nội dung Snippet:
     Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở các file có đuôi ".sublime-snippet" bằng ST4
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh snippet

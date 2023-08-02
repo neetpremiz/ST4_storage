@@ -8,7 +8,7 @@ Link tải trình biên dịch C++20(MinGW 2021, gcc 11.2.0):
 Lưu ý: 3 link trên là MinGW x64 cho hệ điều hành Windows 64bit
 Link tải trình biên dịch Python:
 	https://www.python.org/downloads/
-	
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham gia discord server: https://discord.gg/g6EjTCpxPa

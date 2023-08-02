@@ -7,17 +7,17 @@
     [
     	"draw_normal",
     	"draw_active"
-    ], //highlight đường kẻ nối begin bracket và end bracket
+    ], //highlight đường kẻ nối begin bracket đến end bracket
     "word_wrap": true, //nếu một dòng quá dài sẽ tự ngắt để xuống dòng mới
     "auto_match_enabled": true, //tự động hoàn thành end bracket
     "font_size": 13, //độ to của chữ
     "font_face": "Consolas Bold", //thay đổi kiểu chữ
-    "font_options": ["no_italic"], //nếu thích chữ nghiêng có thể tắt
+    //"font_options": ["no_italic"], //nếu không thích chữ nghiêng có thể bật
   	"caret_style": "phase", //Thay đổi kiểu con trỏ || "smooth", "phase", "blink", "solid"
-  	//Để thay đổi con trỏ dọc thành trỏ ngang nhấn [insert]
   	"caret_extra_top": 2, //chiều cao của nửa trên con trỏ
 	"caret_extra_bottom": 2, //chiều cao của nửa dưới con trỏ
 	"caret_extra_width": 1.5, //độ rộng(độ béo) của thân con trỏ
+    //Để thay đổi con trỏ dọc thành trỏ ngang nhấn [insert]
 	//"auto_complete_use_index": false, //tắt gợi ý nếu có dữ liệu trùng lặp trước đó
     //"match_brackets": false, //bỏ highlight gạch chân dưới tất cả các loại dấu ngoặc
     "ignored_packages": //những gói có tên nằm trong này có thể không tải xuống được
@@ -25,7 +25,7 @@
     	"Vintage",
     ],
 }
-//setting refer: neetpremiz
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh preferences setting

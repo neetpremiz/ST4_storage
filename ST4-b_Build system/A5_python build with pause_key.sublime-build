@@ -7,6 +7,7 @@
     "shell": true,
 }
 //source refer: https://stackoverflow.com/questions/69030603/how-to-run-python-scripts-in-cmd-using-sublime-build-system-sublime-text
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh build system

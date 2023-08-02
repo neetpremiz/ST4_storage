@@ -1,4 +1,5 @@
 các icon ở đây để thay cho icon mặc định của subl, có vài cái do mình tự làm. Tùy vào display resolution của máy bạn mà nó có thể mờ hoặc rõ nét, bạn thấy thích thì có thể thử hết
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham gia discord server: https://discord.gg/g6EjTCpxPa

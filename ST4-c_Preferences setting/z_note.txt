@@ -7,6 +7,7 @@ Lưu ý:
     -File setting phải ở đúng vị trí đích trên mới được kích hoạt
 Để thay đổi preferences setting: 
     Preferences -> Setting
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh preferences setting

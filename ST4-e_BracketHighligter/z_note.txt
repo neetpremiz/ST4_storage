@@ -7,6 +7,7 @@ Lưu ý:
     -File BH setting chỉ được kích hoạt khi ở đúng địa chỉ đích trên 
 Để thay đổi BracketHighlighter setting: 
     Preferences -> Package Settings -> BracketHighlighter -> Bracket Settings
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh BracketHilighter

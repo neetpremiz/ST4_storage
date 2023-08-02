@@ -13,6 +13,7 @@ Lưu ý:
     Preferences -> Select Color Scheme...
 Để customize color scheme:
     Preferences -> Customize Color Scheme
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh BracketHilighter

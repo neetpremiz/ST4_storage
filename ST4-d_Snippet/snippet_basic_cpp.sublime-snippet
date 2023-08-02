@@ -28,6 +28,7 @@ int main() {
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.c++</scope>  //đây là đuôi file để PM có thể định dạng cú pháp NNLT bạn sử dụng
 </snippet>
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham khảo cách tùy chỉnh snippet
