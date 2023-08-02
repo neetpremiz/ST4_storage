@@ -5,10 +5,10 @@ Snippet là tool giúp bạn tiết kiệm thời gian code những nội dung l
 Lưu ý:
     -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
     -File snippet phải ở đúng vị trí đích trên thì mới có thể sử dụng 
-    -Nội dung trong file snippet Py mình chỉ có phần cmt nhập xuất bằng file
     -Bạn có thể tự thay đổi nội dung snippet 
 Nếu code C++, để kích hoạt snippet, mở file C++(đuôi .cpp):
     gõ "#sinp" 
+    Bạn sẽ không thể kích hoạt snippet nếu dùng bộ gõ tiếng việt có sẵn của Windows(VIE - Vietnamese keyboard)
 Nếu code Py, để kích hoạt snippet, mở file Py(đuôi .py):
     gõ "sinpy"
 Để tạo một snippet mới: 
