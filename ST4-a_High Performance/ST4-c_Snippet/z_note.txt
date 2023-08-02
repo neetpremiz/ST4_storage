@@ -8,11 +8,14 @@ Lưu ý:
     -Bạn có thể tự thay đổi nội dung snippet 
     -Bạn sẽ không thể kích hoạt snippet nếu dùng bộ gõ tiếng việt có sẵn của Windows(VIE - Vietnamese keyboard)
 Để kích hoạt snippet:
-    gõ từ ở trong phần tabTrigger
+    Gõ từ ở trong phần tabTrigger
+Nếu 2 file snippet có sẵn ở trên bạn giữ nguyên không thay đổi gì:
+    Kích hoạt snippet C++: gõ "#sinp"
+    Kích hoạt snippet Py: gõ "sinpy"
 Để tạo một snippet mới: 
     Tools -> Developer -> New Snippet...
 Để xem/thay đổi nội dung Snippet:
-    Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở các file có đuôi ".sublime-snippet" bằng ST4
+    Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở file có đuôi ".sublime-snippet" bằng ST4
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
