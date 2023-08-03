@@ -1,4 +1,5 @@
 Gọi là đăng ký bản quyền cho hình thức thôi chứ đúng ra là crack :)). Crack để PM k hiện thông báo purchase và ẩn (UNREGISTERED) trông ngứa mắt vl
+Cái này là hướng dẫn cho ST4 build 4143 nên nếu bạn sử dụng bản khác có thể sẽ không được
 
 Sao lưu file "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" ra một vị trí khác
 hexed.it -> [open file] -> "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" -> [Open]

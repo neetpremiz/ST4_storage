@@ -5,7 +5,7 @@ Có 2 cách để import folder vào ST4:
 Ẩn/hiện thanh bên trái chứa folder/file: Ctrl+K, Ctrl+B
 Lưu ý:
 	-Nếu đang mở một file, trong khi bạn xóa file khỏi folder trong File Explorer, thì file đó vẫn còn trên thanh tab ở cửa sổ Subl, lúc này file đó sẽ được coi như new file
-	-Tùy thuộc vào file đã mở trước đó mà vị trí save file sẽ thay đổi theo
+	-Tùy thuộc vào file đã mở trước đó mà vị trí save new file sẽ thay đổi theo
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz

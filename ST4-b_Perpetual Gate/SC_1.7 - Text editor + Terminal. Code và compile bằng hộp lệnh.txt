@@ -1,10 +1,16 @@
 C++:
 	Tạo file có đuôi .cpp ở một vị trí tùy ý:
 	Ví dụ mình tạo và lưu file code.cpp ở Documents(D:\)
-	Mở file "code.cpp" bằng text ediotr bất kì như Notepad
+	Mở file "code.cpp" bằng text ediotr bất kì như Notepad hoặc ST4
 	-> Edit nội dung code -> Ctrl+S
-	Win+R -> "cmd" -> enter -> "g++ code.cpp" -> "a.exe"
+	Win+R -> "cmd" -> enter -> "cd {vị trí của thư mục chứa file code}" như mình là "cd D:\Documents"  -> enter -> "g++ code.cpp" -> enter -> "a.exe" -> enter
 
+Python:
+	Tạo file có đuôi .py ở một vị trí tùy ý:
+	Ví dụ mình tạo và lưu file code.py ở Documents(D:\)
+	Mở file "code.py" bằng text ediotr bất kì như Notepad hoặc ST4
+	-> Edit nội dung code -> Ctrl+S
+	Win+R -> "cmd" -> enter -> "cd {vị trí của thư mục chứa file code}" như mình là "D:\Documents" -> enter -> "code.py" -> enter
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham gia discord server: https://discord.gg/g6EjTCpxPa

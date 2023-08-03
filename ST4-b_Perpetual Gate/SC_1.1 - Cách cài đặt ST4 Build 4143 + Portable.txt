@@ -1,0 +1,14 @@
+Tải ST4 theo CL_0 ở thư mục Chain link
+"sublime_text_build_4143_x64_setup.exe"  -> [Next] -> Tick "Add to explorer context menu" -> [Install] -> [Finish]
+
+Bản Portable:
+	Tải ST4 Portable Build 4143 CL_0 ở thư mục Chain link
+	sublime_text_build_4143_x64.zip -> [Extract to] hoặc [Extract Here]
+	-> Truy cập vào thư mục đã giải nén -> sublime_text.exe
+	Nếu khi mở ST4 Build 4143 hiện lên cửa sổ Update -> [Cancel]
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

@@ -1,8 +1,10 @@
 Khá giống với quy tắc đặt tên biến
--Tránh bắt đầu bằng số
+-Tránh bắt đầu bằng số(có thể bị lỗi dở dở ương ương)
 -Không có khoảng trắng
 -Không có dấu(sắc, huyền, ngã, nặng, hỏi). Ví dụ: cặ*.cpp(cặp)
--Thiếu đuôi file. Ví dụ code C++, đặt thiếu đuôi .cpp
+-Thiếu đuôi file. Ví dụ code C++, đặt tên thiếu đuôi .cpp
+
+Cứ đặt full chữ thường rồi đến số cho lành như "chuatecoder123.cpp"
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
