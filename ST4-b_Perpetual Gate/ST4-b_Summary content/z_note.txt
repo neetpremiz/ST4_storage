@@ -1,7 +1,0 @@
-Các file ở đây để tóm tắt nội dung của nhiều thứ khác nhau. Vì là tóm tắt nên không quá cụ thể chi tiết, nói đúng hơn là nếu quên cách làm thì vào xem lại để hồi tưởng về quá khứ buff sức mạnh. Những cái có nhiều cách thì sẽ sắp xếp từ đơn giản đến phức tạp
-
-/*
-ST4 tutorial: https://www.youtube.com/@neetpremiz
-Tham gia discord server: https://discord.gg/g6EjTCpxPa
-Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
-*/

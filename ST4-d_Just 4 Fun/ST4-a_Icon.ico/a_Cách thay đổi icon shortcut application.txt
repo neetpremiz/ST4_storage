@@ -1,0 +1,1 @@
+Ở màn hình Desktop -> file .exe -> [Properties] -> [Change Icon] -> [Browse...] -> tìm đến vị trí để file .ico mà bạn đã lưu -> [OK] -> [Apply] -> [OK]

@@ -1,0 +1,12 @@
+C++:
+	Tạo file có đuôi .cpp ở một vị trí tùy ý:
+	Ví dụ mình tạo và lưu file code.cpp ở Documents(D:\)
+	Mở file "code.cpp" bằng text ediotr bất kì như Notepad
+	-> Edit nội dung code -> Ctrl+S
+	Win+R -> "cmd" -> enter -> "g++ code.cpp" -> "a.exe"
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

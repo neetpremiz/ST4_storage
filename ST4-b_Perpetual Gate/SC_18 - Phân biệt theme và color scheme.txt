@@ -1,0 +1,8 @@
+Theme là những cái liên quan đến giao diện là chính, ví dụ file icon, thanh công cụ, hình dạng thanh tab, màu nền cửa sổ,...
+Color scheme tương tự nhưng khác ở chỗ đó là màu của nền edit text, syntax highlight,...
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

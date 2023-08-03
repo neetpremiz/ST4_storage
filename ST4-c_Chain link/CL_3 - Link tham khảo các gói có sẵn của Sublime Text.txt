@@ -1,0 +1,8 @@
+Bất cứ gói nào có thể tải xuống và sử dụng cho Sublime Text đều nằm ở đây:
+	https://packagecontrol.io/
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

@@ -1,0 +1,12 @@
+-Chưa chọn build, chọn sai(hiểu sai cách dùng) build, quên đổi build
+-Sai tên file nhập xuất "input.inp" lại để file tên "input.in", "inpu.inp"
+-Trùng file nhập xuất, ví dụ như có tới 2 file tên "output.out"
+-Chưa tắt cửa sổ lệnh của một file code nhưng lại compile tiếp(có thể không sao)
+-Sai tiêu chuẩn C++. Ví dụ build thì C++20 nhưng minGW trong path là minGW 2016
+-Nội dung build có vấn đề, sai cú pháp, sai lệnh,...
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

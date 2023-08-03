@@ -1,0 +1,11 @@
+Ở cửa sổ ST4: 
+	View -> Layout -> [Columns: 3]
+	View -> Groups -> [Max Columns: 2]
+Để Split view, mở 2 file(có thể nhiều hơn) cùng lúc:
+	Khi đang mở 1 file, giữ shift rồi bấm vào tab file còn lại. Hoặc chuột phải vào tab file khác -> [Split View]
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

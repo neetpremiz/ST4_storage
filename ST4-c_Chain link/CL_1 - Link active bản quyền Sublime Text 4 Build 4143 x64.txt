@@ -1,4 +1,4 @@
-web chỉnh sửa file sublime_text.exe:
+chỉnh sửa file sublime_text.exe:
 	hexed.it
 	
 /*

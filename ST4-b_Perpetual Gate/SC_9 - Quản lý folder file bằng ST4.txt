@@ -1,0 +1,14 @@
+Có 2 cách để import folder vào ST4:
+Ở cửa sổ ST4: Trước khi import folder/file: View -> Slide Bar -> Bỏ tick "Show Open Files"
+	Cách 1: Kéo folder bạn cần import vào thẳng cửa sổ ST4
+	Cách 2: Ở của sổ ST4: File -> [Open Folder...] -> Tìm đến vị trí thư mục của bạn
+Ẩn/hiện thanh bên trái chứa folder/file: Ctrl+K, Ctrl+B
+Lưu ý:
+	-Nếu đang mở một file, trong khi bạn xóa file khỏi folder trong File Explorer, thì file đó vẫn còn trên thanh tab ở cửa sổ Subl, lúc này file đó sẽ được coi như new file
+	-Tùy thuộc vào file đã mở trước đó mà vị trí save file sẽ thay đổi theo
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

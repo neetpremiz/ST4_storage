@@ -1,0 +1,26 @@
+Cách kiểm tra chuẩn C++ đang sử dụng:
+	Mở file .cpp -> 
+"
+#include<iostream>
+using namespace std;
+int main() {
+	cout << "compound2";
+	return 0;
+}
+"
+-> compile
+Nếu kết quả hiển thị:
+	"202002": C++20
+	"201703": C++17
+	"201402": C++14
+	"201103": C++11
+	"197711": C++98
+
+Cách thay đổi chuẩn C++ đang sử dụng
+	Trong file build system mình đã note, sau khi edit -> Ctrl+S
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

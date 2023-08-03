@@ -1,0 +1,11 @@
+[Settings] -> [Update & Security] -> [Windows Security]
+Hoặc Windows search "Windows Security"
+-> [Virus & threat protection] -> [Manage settings] -> [Add or remove exclusions] -> [Add an exclusion] -> Folder -> tìm đến folder chứa file code của bạn -> [Select Folder]
+
+Có một cách khác nhanh hơn là tắt hết defender nhưng mình k khuyến khích cách này
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

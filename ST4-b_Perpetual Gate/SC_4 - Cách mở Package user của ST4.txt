@@ -1,7 +1,9 @@
 Có 2 cách để bạn mở Package user:
+Ở cửa sổ ST4:
 	Cách 1: Preferences -> [Browse Packages...] -> User
 	Cách 2: Win+R -> "%appdata%" -> enter([OK]) -> Sublime Text -> Packages -> User
-Ví dụ địa chỉ đích dẫn đúng: C:\Users\ADMIN\AppData\Roaming\Sublime Text\Packages\User
+Ví dụ địa chỉ đích dẫn đúng: 
+	C:\Users\ADMIN\AppData\Roaming\Sublime Text\Packages\User
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz

@@ -1,0 +1,11 @@
+file.sublime -> [Open with] -> [Choose another app] -> [Other options: Sublime Text] -> Tick "Always use this app to open .sublime file
+Nếu không thấy ST4 trong Other options: 
+	file.sublime -> [Open with] -> [Choose another app] -> More apps -> Look for another apps on this PC -> "C:\Program Files\Sublime Text\sublime_text.exe" -> [Open]
+	Sau khi đã có ST4 shortcut trong Other options:
+		file.sublime -> [Open with] -> [Choose another app] -> [Other options: Sublime Text] -> Tick "Always use this app to open .sublime file
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

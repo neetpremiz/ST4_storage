@@ -7,7 +7,7 @@ Lưu ý:
 Để thay đổi Build system: 
     Tools -> Build system
 Để tạo một Build system mới: 
-    Tools -> Build System -> New Build System
+    Tools -> Build System -> New Build System -> Ctrl+S (Đặt tên file như nào cũng được nhưng phải có đuôi ".sublime-build"
 Để xem/thay đổi nội dung Build system:
     Tìm đến đích dẫn " AppData\Roaming\Sublime Text\Packages\User ", mở các file có đuôi ".sublime-build" bằng ST4
 

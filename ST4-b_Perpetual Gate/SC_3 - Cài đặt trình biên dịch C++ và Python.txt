@@ -1,13 +1,15 @@
 Tải trình biên dịch theo CL_2 trong thư mục Chain link
 C++ compiler:
 	[Open/Run as administrator] -> Extract to -> [...] -> C:\ -> [Extract]
-	Cách 1: Win+R -> cmd -> enter([OK] -> setx path "C:\MinGW\bin" -> Enter
+	Cách 1: Win+R -> "cmd" -> enter([OK] -> setx path "C:\MinGW\bin" -> Enter
 	Cách 2: Windows search -> Environment -> Enter hoặc [Control Panel] -> [System and Security] -> [System] -> [Advanced system settings] ->  [Environment Variables] -> User variables for -> [New...] -> Variable name: "path" -> Variable value: "C:\MinGW\bin" -> [OK] -> [OK] -> [OK]
+
 Python compiler:
 	python-3.11.0-amd64.exe -> [Open/Run as administrator] -> [Run] -> Tick "Add python.exe to PATH" -> [Install Now] -> [Close]
-Sau khi hoàn tất cài compiler nhớ phải đóng cửa sổ command prompt
+Sau khi hoàn tất cài compiler nhớ phải đóng cửa sổ command prompt( nếu đang mở )
+
 Để kiểm tra xem trình biên dịch C++ và Py đã hoàn tất phần cài đặt chưa:
-	cmd -> "g++ --version", "gcc --version", "gdb --version", "python --version"
+	Ở cửa sổ cmd -> "g++ --version", "gcc --version", "gdb --version", "python --version", "py --version"
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
