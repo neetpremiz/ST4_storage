@@ -21,11 +21,10 @@ Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 
 
 */
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/567c559f-9093-4740-80dc-702bc1c1c51b)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/d791c14b-2f75-4318-95e9-517725a1c680)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/34cf7633-5654-485a-8775-37900aaab54a)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/23a5de1d-2ac7-416a-8627-5b1c53b5929b)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/1adea80a-a5d6-4c9d-a94d-77c2637e2a83)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/98e51475-c4e8-4c01-b051-4ad7a3405c88)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/a3c474c5-b646-4a24-bc14-b9ffddf66368)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/02eff452-c30c-4d8f-9d94-df85054a1896)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/e8f0123f-20af-4be3-94e8-0299d38f354b)
 
 
 
