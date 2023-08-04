@@ -1,0 +1,23 @@
+Để thay đổi key binding:
+	Ở cửa sổ ST4: Preferences -> Key Bindings -> sau khi thay đổi -> Ctrl+S
+
+Một số phím tắt hay
+	Ctrl+N: New file
+	Ctrl+S: Save file
+	Ctrl+W: Đóng file
+	Ctrl+Z: Khôi phục
+	Ctrl+F: Tìm nội dung
+	Ctrl+Shift+Backspace: Xóa một dòng
+	Ctrl+Backspace: Xóa nhiều 
+	Ctrl+Tab: di chuyển file từ trái sang phải
+	Ctrl+Shift+Tab: di chuyển file từ phải sang trái
+	Comment dòng nhanh: Ctrl+/
+	Comment đoạn nhanh: Ctrl+Shift+/
+
+Thay đổi tab size và syntaxx: góc phía dưới bên phải
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
