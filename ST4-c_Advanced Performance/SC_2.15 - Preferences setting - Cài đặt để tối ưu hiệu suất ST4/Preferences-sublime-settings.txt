@@ -3,11 +3,12 @@
 //Tắt: true -> false || Bật: false -> true
 {
     "highlight_line": false,   //highlight dòng đang ở vị trí hiện tại
+    //indent_guide_options: highlight đường kẻ nối begin bracket đến end bracket
     "indent_guide_options":
     [
     	"draw_normal",
     	"draw_active"
-    ], //highlight đường kẻ nối begin bracket đến end bracket
+    ],
     "word_wrap": true, //nếu một dòng quá dài sẽ tự ngắt để xuống dòng mới
     "auto_match_enabled": true, //tự động hoàn thành end bracket
     "font_size": 13, //độ to của chữ
@@ -21,7 +22,8 @@
 	//"auto_complete_use_index": false, //tắt gợi ý nếu có dữ liệu trùng lặp trước đó
     //"match_brackets": false, //bỏ highlight gạch chân dưới tất cả các loại dấu ngoặc
     "update_check": false, //tắt thông báo update build mới của st4
-    "ignored_packages": //những gói có tên nằm trong này có thể không tải xuống được
+    //những gói có tên nằm trong ignored có thể không tải xuống được
+    "ignored_packages": 
     [
     	"Vintage",
     ],
@@ -35,4 +37,3 @@ Tham khảo cách tùy chỉnh preferences setting
 Tham gia discord server: https://discord.gg/g6EjTCpxPa
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 */
-

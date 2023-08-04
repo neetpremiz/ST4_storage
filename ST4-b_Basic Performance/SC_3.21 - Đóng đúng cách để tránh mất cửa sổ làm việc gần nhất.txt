@@ -1,0 +1,7 @@
+Mỗi khi đóng ST4 và mở lên lại bạn có thấy nó sẽ mở lại y hệt như lúc đóng, tuy nhiên nếu bạn mở 2 cửa sổ chẳng hạn 1 cửa sổ để folder/code đang edit, một cửa sổ để edit preferences setting. Thay vì đóng setting trước, bạn đóng cửa sổ làm việc, rồi đóng setting, như vậy khi bật lên nó sẽ mở lại cửa sổ setting, còn cửa sổ làm việc sẽ phải mở lại từ đầu
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
