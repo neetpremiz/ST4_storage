@@ -5,7 +5,7 @@ Một số phím tắt hay
 	Ctrl+N: New file
 	Ctrl+S: Save file
 	Ctrl+W: Đóng file
-	Ctrl+Z: Khôi phục
+	Ctrl+Z: Khôi phục(quay ngược thời gian)
 	Ctrl+F: Tìm nội dung
 	Ctrl+Shift+Backspace: Xóa một dòng
 	Ctrl+Backspace: Xóa nhiều 
@@ -14,6 +14,7 @@ Một số phím tắt hay
 	Comment dòng nhanh: Ctrl+/
 	Comment đoạn nhanh: Ctrl+Shift+/
 
+Để có nhiều con trỏ ở nhiều chỗ: Ctrl+chuột trái vào nhiều chỗ khác nhau
 Thay đổi tab size và syntaxx: góc phía dưới bên phải
 
 /*
