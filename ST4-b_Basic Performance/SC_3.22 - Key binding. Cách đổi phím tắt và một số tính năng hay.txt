@@ -1,5 +1,5 @@
 Để thay đổi key binding:
-	Ở cửa sổ ST4: Preferences -> Key Bindings -> sau khi thay đổi -> Ctrl+S
+	Ở cửa sổ ST4: Preferences -> [Key Bindings] -> sau khi thay đổi -> Ctrl+S
 
 Một số phím tắt hay
 	Ctrl+N: New file

@@ -1,0 +1,9 @@
+Forum của ST: 
+	https://forum.sublimetext.com/
+Discord chính của ST:
+	https://discord.gg/D43Pecu
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

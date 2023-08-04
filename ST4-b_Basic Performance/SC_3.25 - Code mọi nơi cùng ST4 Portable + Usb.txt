@@ -1,0 +1,19 @@
+Cách này là cho C++, những NNLT khác mình chưa bao giờ thử
+
+Cài đặt ST4 Portable: SC_1.1
+Sao lưu Package User(SC_3.23). Nếu ST4 bản Desktop chưa có data user thì không cần
+Tạo mới/Copy folder chứa code -> Patse vào usb
+Copy/Cut folder ST4 Portable ->  Patse vào usb(ssd/hdd)
+Cài minGW nhưng thay vì để ở ổ C:\ thì cho vào usb(SC_1.3) 
+
+Khi cắm usb vào máy chưa có trình biên dịch và ST4:
+Thiết lập môi trường cho C++ bằng minGW trong usb(SC 1.3). Bước này không cần nếu máy đã được thiết lập sẵn
+-> Mở "sublime_text.exe" trong folder ST4 portable
+Nếu có data user của bản Desktop thì tạo một bản sao y hệt(không có thì thoii): 
+Copy toàn bộ file trong folder "Package/User" của ST4 bản Desktop -> Patse vào folder "Data\Packages\User" bản Portable -> Mở subl lên rồi dùng như bên ST4 bản Desktop thôi
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

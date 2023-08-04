@@ -1,0 +1,8 @@
+Khi vừa gỡ ST4 mà chưa restart, trong phần roaming vẫn còn nguyên data user của ST4, nên khi cài lại sẽ không có gì khác cả
+Để reset hoàn toàn data user của ST4, bạn vào roaming xóa luôn thư mục Sublime Text hoặc gỡ cài đặt rồi restart -> bật lại ST4
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/
