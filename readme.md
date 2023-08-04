@@ -27,3 +27,4 @@ Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 
 
 -El Psy Kongroo-
+https://raw.githubusercontent.com/neetpremiz/ST4_storage/ST4-main-branch/ST4-a_Preview%20Resources/a.png
