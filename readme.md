@@ -5,12 +5,10 @@ Ban đầu khi mới bắt đầu dùng subl để code mình đã mất rất n
 
 
 Nếu có thắc mắc, cần giúp đỡ, có ý tưởng để cải thiện hiệu suất ST4 hoặc báo lỗi/nội dung sai trong ST4_storage: 
-    
-    
-    Đạt Trương: https://www.facebook.com/profile.php?id=100079111352458
 
-    
-    neet: https://www.facebook.com/neetpremiz/
+Đạt Trương: https://www.facebook.com/profile.php?id=100079111352458
+
+neet: https://www.facebook.com/neetpremiz/
 
     
 /*
