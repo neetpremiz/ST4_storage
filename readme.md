@@ -21,10 +21,9 @@ Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 
 
 */
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/45dd86fa-4700-4b7f-8f4d-e0e1a8082f20)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/2e5b1a37-3a6a-41ec-accc-07af01ae1556)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/14d52b56-7e30-4219-9802-3746dadb0508)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/b22ddfb7-17a8-4a9b-8ab3-67937937509a)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/6d47bf1c-0ee2-47e8-9523-f4fa6e42a787)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/ea795f7a-08b6-4765-8abf-26c8fe4cd046)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/9cced395-ffe7-497d-be5f-136eaeb4319f)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/164108ef-8cbc-4f9e-85f2-af0a40202689)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/cec5a4c9-890e-4eba-821a-695f3c6f8bea)
 
 -El Psy Kongroo-
