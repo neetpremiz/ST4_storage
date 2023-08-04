@@ -1,4 +1,4 @@
-Mục này chứa các những thứ không cần thiết
+Những cái ở đây tương đối khó hiểu, bạn nên xem Basic Performance trước rồi mới xem cái này
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz

@@ -1,5 +1,6 @@
 Bất cứ gói nào có thể tải xuống và sử dụng cho Sublime Text đều nằm ở đây:
 	https://packagecontrol.io/
+	https://github.com/sublimehq/Packages
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz

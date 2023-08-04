@@ -1,5 +1,14 @@
 Các file ở đây để tóm tắt nội dung của nhiều thứ khác nhau. Vì là tóm tắt nên không quá cụ thể chi tiết, nói đúng hơn là nếu quên cách làm thì vào xem lại để hồi tưởng về quá khứ buff sức mạnh memory reboot. Các file sắp xếp từ cơ bản đến nâng cao. Cái nào có nhiều cách thì sẽ sắp xếp từ đơn giản đến phức tạp
 
+SC_2.11 - Các Build System bạn nên có để biên dịch code C++ và Py
+SC_2.15 - Preferences setting - Cài đặt để tối ưu hiệu suất ST4
+SC_2.16 - Snippet - Leap để code nhanh như hack
+SC_.17 - BracketHighlighter - Phân tách và làm nổi bật các loại dấu ngoặc
+4 cái này ở trong Advanced Performance
+
+SC_3.20.1 - Tự làm color scheme theo ý thích
+cái này ở trong Just 4 Fun
+
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
 Tham gia discord server: https://discord.gg/g6EjTCpxPa

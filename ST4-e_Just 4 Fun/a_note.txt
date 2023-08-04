@@ -1,0 +1,7 @@
+Mục này chứa các những thứ không cần thiết, nếu bạn thích nghịch thêm cho vui 
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

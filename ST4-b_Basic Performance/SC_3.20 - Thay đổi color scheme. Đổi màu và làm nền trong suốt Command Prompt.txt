@@ -1,0 +1,12 @@
+Ở cửa sổ ST4: 
+Cách thay đổi color scheme:
+	Ctrl+Shift+P -> "color"(UI: Select Color Scheme) -> Chọn một color scheme -> Enter
+
+Cách làm nền trong suốt cho Command Prompt:
+	Win+R -> "cmd" -> Ở cửa sổ cmd: ở thanh bên trên -> [Propeties] ->   Opacity -> thay đổi số %
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

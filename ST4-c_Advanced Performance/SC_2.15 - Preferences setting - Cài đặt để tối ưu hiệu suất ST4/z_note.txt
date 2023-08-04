@@ -6,7 +6,7 @@ Lưu ý:
     -Phải mở ST4 lên thì mới có địa chỉ đích ở trên
     -File setting phải ở đúng vị trí đích trên mới được kích hoạt
 Để thay đổi preferences setting: 
-    Preferences -> Setting
+    Preferences -> Setting -> Sau khi thay đổi -> Ctrl+S
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz

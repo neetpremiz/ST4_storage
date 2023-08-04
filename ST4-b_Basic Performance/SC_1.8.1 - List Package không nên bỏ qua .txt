@@ -1,0 +1,35 @@
+List package mình recommend:
+
+-A File Icon
+-BracketHighlighter
+-SublimeLinter
+-Insert Nums
+-Terminal
+
+C++ CP:
+	-CppFastOlympicCoding
+	-C++ Snippets
+	-CPP Competitive Programming Snippets
+	-Snippet Destroyer
+	-Tabnine(lúc được lúc không)
+
+Theme và color scheme:
+	-Enki Theme
+	-Github Theme
+	-Seti_UI
+	-Material Theme
+	-Inspired Github Color Scheme
+	-Okami - Adaptive Color Schemes
+	-Theme - Darkmatter
+	-Theme - One Dark
+	-Theme - Windows 10
+	-Visual Studio Code Plus Scheme
+	-Visual Studio Dark
+	-Theme - Monokai Pro
+	-Dracula Color Scheme
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

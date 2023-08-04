@@ -1,0 +1,16 @@
+Ở cửa sổ ST4: 
+Cách thay đổi theme:
+	Ctrl+Shift+P -> "Select theme"(UI: Select Theme) -> Chọn một theme -> Enter
+Lưu ý: Đối với Material theme có thể thay đổi nhiều kiểu:
+	Ctrl+Shift+P -> "material"(Material Theme: Configuration) 
+
+Cách làm nền trong suốt:
+	Ctrl+Shift+P -> "Install Package"(Package Control: Install Package) -> "Transparency" -> enter
+Để thay đổi độ trong suốt:
+	Window's Transparency -> Disable, Level 1/2/3/4/5
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

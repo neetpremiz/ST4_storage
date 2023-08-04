@@ -1,6 +1,6 @@
-// Các cài đặt này được trích ra từ "Default/Preferences.sublime-settings",
-// Các thay đổi ở đây sẽ được coi là thay đổi cài đặt mặc định
-// Tắt: true -> false || Bật: false -> true
+//Các cài đặt này được trích ra từ "Default/Preferences.sublime-settings",
+//Mọi thay đổi ở đây sẽ được coi là thay đổi cài đặt mặc định
+//Tắt: true -> false || Bật: false -> true
 {
     "highlight_line": false,   //highlight dòng đang ở vị trí hiện tại
     "indent_guide_options":
@@ -20,11 +20,13 @@
     //Để thay đổi con trỏ dọc thành trỏ ngang nhấn [insert]
 	//"auto_complete_use_index": false, //tắt gợi ý nếu có dữ liệu trùng lặp trước đó
     //"match_brackets": false, //bỏ highlight gạch chân dưới tất cả các loại dấu ngoặc
+    "update_check": false, //tắt thông báo update build mới của st4
     "ignored_packages": //những gói có tên nằm trong này có thể không tải xuống được
     [
     	"Vintage",
     ],
 }
+//setting refer: neetpremiz
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
