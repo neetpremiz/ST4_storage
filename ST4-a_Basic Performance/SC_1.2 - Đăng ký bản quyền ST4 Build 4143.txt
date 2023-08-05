@@ -1,12 +1,12 @@
-Gọi là đăng ký bản quyền cho hình thức thôi chứ đúng ra là crack :)). Crack để PM k hiện thông báo purchase và ẩn (UNREGISTERED) trông ngứa mắt vl
-Cái này là hướng dẫn cho ST4 build 4143 nên nếu bạn sử dụng bản khác có thể sẽ không được
+Gọi là đăng ký bản quyền cho hình thức thôi chứ đúng ra là crack :)). Crack để PM k hiện thông báo purchase, thông báo update mới và ẩn (UNREGISTERED) trông ngứa mắt vl
+Cái này là hướng dẫn cho ST4 build 4143 nên nếu bạn sử dụng build khác có thể sẽ không được
 
 Sao lưu file "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" ra một vị trí khác
 hexed.it -> [open file] -> "sublime_text.exe" trong default location: "C:\Program Files\Sublime Text" -> [Open]
 Search -> Search for "80 78 05 00 0f 94 c1" 
 Tick Enable replace ở Search Type
-Replace by -> copy "c6 40 05 01 48 85 c9" -> patse vào -> [Find next] -> [ok]
-Save as "sublime_text.exe" -> move file vào "C:\Program Files\Sublime Text" -> Replace -> sublime_text.exe -> Chạy file([Open], không phải Run as administrator) -> Bỏ tick "Always ask before opening this file" -> [Run]
+Replace by -> patse "c6 40 05 01 48 85 c9" -> [Find next] -> [Replace] -> [ok]
+Save as "sublime_text.exe" -> move file vào "C:\Program Files\Sublime Text" -> Replace -> sublime_text.exe -> Nếu có đang mở ST4 thì đóng -> Chạy file([Open], không phải Run as administrator) -> Bỏ tick "Always ask before opening this file" -> [Run]
 Nếu file exe chỉnh sửa có vấn đề hoặc làm sai, dùng lại file exe cũ đã sao lưu
 
 /*

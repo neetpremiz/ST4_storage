@@ -2,9 +2,7 @@ Sao lưu data user:
 	Mở package user(SC_1.4) -> Trên thanh path: truy cập [Roaming] -> copy folder "Sublime Text" -> sao lưu lên cloud, drive, disk, usb,...
 
 Để khôi phục data user: 
-	Sau khi cài lại ST4 mới toanh ->  mở lên( sublime_text.exe ) -> Truy cập package user -> Trên thanh path: truy cập [Roaming]
-	Hoặc xóa folder "Sublime Text" -> Patse folder "Sublime Text" đã sao lưu vào -> bật lại ST4
-	Hoặc -> Patse folder "Sublime Text" đã sao lưu vào -> [Replace] -> bật lại ST4
+	Sau khi cài lại ST4 mới toanh ->  mở lên( sublime_text.exe ) -> Truy cập package user -> Trên thanh path: truy cập [Roaming] -> Patse folder "Sublime Text" đã sao lưu vào -> [Replace] -> bật lại ST4
 
 /*
 ST4 tutorial: https://www.youtube.com/@neetpremiz
