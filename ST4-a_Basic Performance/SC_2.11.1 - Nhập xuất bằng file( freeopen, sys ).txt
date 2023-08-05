@@ -1,0 +1,14 @@
+Tạo 2 file tên "input.inp" và "output.out" trong cùng thư mục với file code
+C++:
+	//freopen("input.inp","r",stdin);
+    	//freopen("output.out","w",stdout);
+Py:
+	import sys
+	#sys.stdin = open("input.inp","r")
+	#sys.stdout = open("output.out","w")
+
+/*
+ST4 tutorial: https://www.youtube.com/@neetpremiz
+Tham gia discord server: https://discord.gg/g6EjTCpxPa
+Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
+*/

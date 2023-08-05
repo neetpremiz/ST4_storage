@@ -13,7 +13,7 @@ Một số phím tắt hay
 	Ctrl+Shift+Tab: di chuyển file từ phải sang trái
 	Comment dòng nhanh: Ctrl+/
 	Comment đoạn nhanh: Ctrl+Shift+/
-
+	Ctrl+ mũi tên lên/xuống
 Để có nhiều con trỏ ở nhiều chỗ: Ctrl+chuột trái vào nhiều chỗ khác nhau
 Thay đổi tab size và syntaxx: góc phía dưới bên phải
 
