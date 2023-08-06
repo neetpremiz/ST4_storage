@@ -5,6 +5,7 @@ Một số phím tắt hay
 	Ctrl+N: New file
 	Ctrl+S: Save file
 	Ctrl+W: Đóng file
+	Ctrl+Shift+Tab: Mở lại file đã đóng
 	Ctrl+Z: Khôi phục(quay ngược thời gian)
 	Ctrl+F: Tìm nội dung
 	Ctrl+Shift+Backspace: Xóa một dòng
