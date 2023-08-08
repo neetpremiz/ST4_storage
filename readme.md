@@ -19,11 +19,9 @@ Tham gia discord server: https://discord.gg/g6EjTCpxPa
 
 Lưu trữ github ST4: https://github.com/neetpremiz/ST4_storage
 
-
 */
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/d01b7a32-8ffc-4b4a-9a7c-20f106b87ab3)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/be96ca3e-36c4-4012-afa2-d641c8ba165a)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/fc1b013f-e514-4b1a-8111-b08cff24948c)
-![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/cec5a4c9-890e-4eba-821a-695f3c6f8bea)
-
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/4ade3824-bc8b-4c92-a38a-7cd93fa98387)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/a285a197-5662-4504-8f31-41d4febcc719)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/8586487e-f34f-47d1-9784-3d671e85d995)
+![image](https://github.com/neetpremiz/ST4_storage/assets/116280555/ea9819f5-6344-4e24-a3e6-1460974c6d0d)
 -El Psy Kongroo-
