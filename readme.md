@@ -4,14 +4,6 @@ Tuturu! Đây là tài nguyên liên quan đến Sublime Text 4 và trình biên
 
 
 Ban đầu khi mới bắt đầu dùng subl để code mình đã mất rất nhiều thời gian nên mình mong rằng ST4_storage sẽ giúp bạn thành thạo text editor này nhanh hơn để có thời gian tập trung vào việc học code. Nó sẽ rất phù hợp nếu bạn đang dùng Windows x64. Cảm ơn bạn đã ghé github
-
-
-Nếu có thắc mắc, cần giúp đỡ, có ý tưởng để cải thiện hiệu suất hoặc báo lỗi/nội dung sai trong ST4_storage: 
-
-Đạt Trương: https://www.facebook.com/profile.php?id=100079111352458
-
-neet: https://www.facebook.com/neetpremiz/
-
     
 /*
 
